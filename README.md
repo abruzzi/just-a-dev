@@ -7,33 +7,33 @@
 
 原技能不局限在后面列出的任何一个单项技能，不过又非常重要，偏重于形而上。
 
-- 通用原则（SOLID原则，关注点分离）
+- 通用原则（[SOLID](https://zh.wikipedia.org/wiki/SOLID_(%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1))原则，[关注点分离](https://zh.wikipedia.org/wiki/%E5%85%B3%E6%B3%A8%E7%82%B9%E5%88%86%E7%A6%BB)）
 - 面向对象
-- 设计模式
-- 可视化表达（白板笔）与沟通
-- Domain Driven Design
+- [设计模式](https://zh.wikipedia.org/wiki/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+- [可视化表达（白板笔）与沟通](https://book.douban.com/subject/26587519/)
+- [Domain Driven Design](https://en.wikipedia.org/wiki/Domain-driven_design)
 
 ### 基础技能
 
 此部分技能包含一个Dev日常开发所需要用到的基础技能，具备这些技能的Dev可以完成日常工作中的`开发`部分任务。
 
 - 快捷键（IDE或者编辑器的快捷键）
-- 命令行（Shell及常见*nix命令的使用）
+- [命令行](http://icodeit.org/2017/01/why-top-programmers-hate-gui/)（Shell及常见*nix命令的使用）
 - VCS（Git/SubVersion）
 - 小步提交
 - Build脚本（依赖管理，任务管理）
-- TDD/Tasking/Refactoring
+- [TDD/Tasking/Refactoring](http://icodeit.org/2014/11/tdd-step-by-step/)
 - CI搭建（Build的创建、流水线的创建、环境准备等）
 
 ### 进阶技能1
 
 此部分技能属于基础技能的进阶，默认地，Dev在具备了基础技能之后，需要进一步掌握这里列出的技能。
 
-- 测试金字塔
+- [测试金字塔](http://icodeit.org/2016/10/testing-in-microservice-context/)
 - 自动化测试（Selenium、Webdriver）
-- Specification By Example（BDD）
+- [Specification By Example](https://book.douban.com/subject/11611022/)（BDD）
 - DevOps（环境的自动化）
-- 持续交付（）
+- [持续交付](https://book.douban.com/subject/6862062/)
 
 ### 进阶技能2
 
@@ -42,7 +42,7 @@
 
 - Story拆分能力
 - Standup meeting（如何更新自己的状态）
-- Estimation（对估点方式及效果的认识）
+- [Estimation](https://www.sitepoint.com/3-powerful-estimation-techniques-for-agile-teams/)（对估点方式及效果的认识）
 - *Retrospective meeting*（如何发现团队流程方面的问题及如何改进）
 - *Feedback*（如何帮助其他人改进）
 - Kickoff（注意事项）
